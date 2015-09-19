@@ -1,0 +1,29 @@
+	Color			Windows		Linux			Code
+
+Foreground: 
+	Black			0			0;30			blk
+	DarkGray		8			1;30			dgr
+	Red				4			0;31			red
+	LightRed		c			1;31			lrd
+	Green			2			0;32			grn
+	LightGreen		a			1;32			lgr
+	Yellow			6			0;33			ylw
+	LightYellow		e			1;33			lyl
+	Blue			1			0;34			blu
+	LightBlue		9			1;34			lbl
+	Purple			5			0;35			prp
+	LightPurple		d			1;35			lpr
+	Cyan			3			0;36			cyn
+	LightCyan		b			1;36			lcy
+	Gray			7			0;37			gry
+	White			f			1;37			wht
+
+Background: 
+	Black			0			40				blk
+	Red				4			41				red
+	Green			2			42				grn
+	Yellow			6			43				ylw
+	Blue			1			44				blu
+	Magenta			5			45				mgn
+	Cyan			3			46				cyn
+	White			8			47				wht
